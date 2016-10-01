@@ -15,6 +15,8 @@ npm install
 node server.js
 ```
 
+The node implementation now supports DELETE operations but none of the other servers do.
+
 ### Python
 
 ```sh
